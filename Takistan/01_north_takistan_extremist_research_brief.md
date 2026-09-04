@@ -1,5 +1,5 @@
 # UKSF_Factions — Faction Research Brief 01
-## Northern Takistan Emirate Front (NTEF)
+## New Takistan Emirates (NTE)
 
 **Project:** `UKSF_Factions`  
 **Author:** `UKSF Surplus`  
@@ -7,8 +7,8 @@
 **Status:** Research / Pre-production  
 **Date:** 2026-08-09  
 **Theatre:** North Takistan  
-**Working faction name:** Northern Takistan Emirate Front  
-**Working acronym:** NTEF  
+**Working faction name:** New Takistan Emirates  
+**Working acronym:** NTE
 **Intended side:** OPFOR / EAST  
 **Primary design analogue:** ISIS-K / contemporary Central and South Asian jihadist insurgency  
 **Scope rule:** Inspiration only; do not reproduce real extremist names, insignia, slogans, propaganda, leaders, or operational material.
