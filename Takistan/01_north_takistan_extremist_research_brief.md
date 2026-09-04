@@ -64,7 +64,7 @@ This allows Takistan to retain its established history while supporting equipmen
 
 ### 3.1 Primary analogue
 
-The principal real-world reference for NTEF is **ISIS-K / ISIL-K**, specifically its role as a hardline transnational extremist organisation operating in Afghanistan and the wider Central/South Asian region.
+The principal real-world reference for NTE is **ISIS-K / ISIL-K**, specifically its role as a hardline transnational extremist organisation operating in Afghanistan and the wider Central/South Asian region.
 
 United Nations material records that ISIL-K was established in 2015 from former militant commanders in the Afghanistan/Pakistan environment.
 
@@ -107,13 +107,13 @@ The intent is to reproduce a believable **fictional threat archetype**, not a re
 
 ## 4.1 Working name
 
-**Northern Takistan Emirate Front**
+**New Takistan Emirates**
 
-**Acronym:** NTEF
+**Acronym:** NTE
 
 This is currently treated as the English-language/NATO intelligence designation.
 
-A local self-designation is intentionally **TBD**. It should not be invented until a consistent Takistani naming and language convention has been established for the wider mod.
+A local self-designation is intentionally **al-Imārāt al-Tākistān al-Jadīda**. (working) It should not be invented until a consistent Takistani naming and language convention has been established for the wider mod.
 
 ### Naming goals
 
@@ -130,28 +130,30 @@ The final name should:
 
 ## 4.2 Proposed origin
 
-NTEF emerges from the instability that followed the defeat of the old Takistani regime and the subsequent insurgency.
+NTE emerges from the instability that followed the defeat of the old Takistani regime and the subsequent insurgency.
 
 The movement is **not** a direct continuation of the original Takistani Militia.
 
 Instead, it develops years later from a convergence of:
 
+- Political Power struggles
 - extremist splinter elements from older insurgent organisations;
 - radicalised members of former Takistani armed groups;
 - younger recruits with no direct connection to the original war;
 - foreign volunteers and cross-border militants;
 - defectors from rival armed movements;
+- privately owned resource centers
 - criminal or smuggling networks used for access and sustainment.
 
 The result is a movement that considers older Takistani nationalist and tribal insurgents insufficiently committed to its ideological project.
 
-This gives NTEF a believable reason to fight **both the Takistani state and other insurgent factions**.
+This gives NTE a believable reason to fight **both the Takistani state and other insurgent factions**.
 
 ---
 
 ## 4.3 Political and ideological character
 
-NTEF is a **hardline transnational jihadist movement** seeking to replace existing secular and traditional political structures with its own extremist religious government.
+NTE is a **hardline transnational jihadist movement** seeking to replace existing secular and traditional political structures with its own extremist religious government.
 
 The faction should be portrayed as:
 
@@ -181,9 +183,11 @@ The terrain supports the faction's intended mixture of:
 - mountain valleys;
 - agricultural areas;
 - road networks;
+- oil refineries;
 - small towns;
 - larger population centres;
-- remote border approaches.
+- remote border approaches;
+- raw mineral mines.
 
 ### Secondary lore area
 
@@ -244,7 +248,7 @@ NTEF may intimidate, coerce or attempt to control civilian communities, but civi
 
 ## 7.1 Overall visual target
 
-NTEF should be immediately identifiable as a **contemporary extremist insurgent faction**, but should not become a caricature where every fighter wears black clothing and a face covering.
+NTE should be immediately identifiable as a **contemporary extremist insurgent faction**, but should not become a caricature where every fighter wears black clothing and a face covering.
 
 The intended visual character is:
 
@@ -344,7 +348,7 @@ Face coverings should be common enough to contribute to the faction identity but
 
 ## 8. Insignia and Branding
 
-NTEF needs a **completely fictional visual identity**.
+NTE needs a **completely fictional visual identity**.
 
 ### Design principles
 
@@ -794,7 +798,7 @@ The faction should be capable of presenting a credible threat without requiring 
 
 ## 16. Distinction From Future Takistani Factions
 
-NTEF should not become the only irregular Takistani faction in the mod.
+NTE should not become the only irregular Takistani faction in the mod.
 
 Future development should preserve room for at least:
 
@@ -816,7 +820,7 @@ Identity:
 - more military organisation;
 - more uniform equipment.
 
-### NTEF
+### NTE
 
 Identity:
 
@@ -976,6 +980,6 @@ Real-world sources are used only for broad plausibility and contemporary visual/
 
 For initial `UKSF_Factions` development, the North Takistan deployment enemy is provisionally defined as:
 
-> **Northern Takistan Emirate Front (NTEF)** — a fictional, hardline transnational extremist movement that emerged from the long-running instability following the collapse of the old Takistani regime. It combines locally recruited insurgents with a smaller, better-equipped veteran cadre and operates principally in North Takistan while maintaining a wider cross-border outlook.
+> **New Takistan Emirates (NTE)** — a fictional, hardline transnational extremist movement that emerged from the long-running instability following the collapse of the old Takistani regime. It combines locally recruited insurgents with a smaller, better-equipped veteran cadre and operates principally in North Takistan while maintaining a wider cross-border outlook.
 
 This definition is sufficient to begin the **asset and dependency audit**, but faction name, emblem and exact equipment remain subject to approval before configuration work begins.
