@@ -22,7 +22,7 @@ This document defines the **traditional Takistani insurgent faction** for `UKSF_
 
 The faction exists to fill a role deliberately separate from:
 
-- NTEF;
+- NTE;
 - Takistani National Army;
 - Takistani National Police;
 - Takistani Border Guard;
@@ -39,7 +39,7 @@ TNA / UKSF
       vs
 TNR
       vs
-NTEF
+NTE
 ```
 
 or any other relationship configured by the mission.
@@ -318,7 +318,7 @@ It allows mission makers to configure TNR as:
 - hostile to BLUFOR and OPFOR;
 - temporarily friendly to BLUFOR;
 - friendly to government;
-- hostile only to NTEF;
+- hostile only to NTE;
 - hostile only to government.
 
 ---
@@ -332,7 +332,7 @@ BLUFOR
 Takistani Government / UKSF
 
 OPFOR
-NTEF
+NTE
 
 INDEPENDENT
 TNR
@@ -362,7 +362,7 @@ TAKISTANI
 LOCAL
 NATIONALIST
 DECENTRALISED
-ANTI-NTEF
+ANTI-NTE
 SCEPTICAL / HOSTILE TOWARD CENTRAL GOVERNMENT
 ```
 
@@ -380,7 +380,7 @@ Common themes may include:
 - protection of local communities;
 - resistance to outside political control;
 - opposition to foreign military influence;
-- opposition to NTEF;
+- opposition to NTE;
 - preservation of traditional local authority;
 - political reform of the post-war state.
 
@@ -426,11 +426,11 @@ Religion may influence:
 - local legitimacy;
 - community life.
 
-It should not make TNR interchangeable with NTEF.
+It should not make TNR interchangeable with NTE.
 
 ---
 
-# PART VIII — TNR VS NTEF
+# PART VIII — TNR VS NTE
 
 ## 20. Fundamental Difference
 
@@ -440,7 +440,7 @@ TNR:
 LOCAL / TAKISTANI
 ```
 
-NTEF:
+NTE:
 
 ```text
 TRANSNATIONAL / EXTREMIST
@@ -458,7 +458,7 @@ TNR may accept:
 - community negotiation;
 - pragmatic political deals.
 
-NTEF seeks a more rigid ideological order.
+NTE seeks a more rigid ideological order.
 
 ---
 
@@ -470,7 +470,7 @@ TNR can make use of:
 - historic political symbolism;
 - local symbolism.
 
-NTEF deliberately has its own faction identity.
+NTE deliberately has its own faction identity.
 
 ---
 
@@ -479,7 +479,7 @@ NTEF deliberately has its own faction identity.
 Baseline:
 
 ```text
-TNR ↔ NTEF
+TNR ↔ NTE
 HOSTILE
 ```
 
@@ -487,8 +487,8 @@ Reasons may include:
 
 - competing authority;
 - incompatible political goals;
-- NTEF coercion;
-- NTEF rejection of local autonomy;
+- NTE coercion;
+- NTE rejection of local autonomy;
 - violence against TNR-linked communities;
 - competition for recruits/resources.
 
@@ -508,7 +508,7 @@ TNR rejects or resists important parts of the current political order.
 
 ## 25. Not Irreconcilable
 
-Unlike NTEF, TNR can plausibly:
+Unlike NTE, TNR can plausibly:
 
 - negotiate;
 - agree local ceasefires;
@@ -553,7 +553,7 @@ TNR may cooperate with UKSF when interests overlap.
 
 Example narrative conditions:
 
-- common NTEF threat;
+- common NTE threat;
 - local ceasefire;
 - hostage/civilian crisis;
 - political negotiation;
@@ -567,7 +567,7 @@ This flexibility is one reason INDEPENDENT is the correct Arma side.
 
 ## 29. Local Embeddedness
 
-TNR should be more deeply connected to ordinary Takistani society than NTEF.
+TNR should be more deeply connected to ordinary Takistani society than NTE.
 
 Potential relationships:
 
@@ -616,7 +616,7 @@ No universal civilian position is locked.
 TNR should have a looser command structure than:
 
 - TNA;
-- NTEF.
+- NTE.
 
 The faction may contain:
 
@@ -695,8 +695,8 @@ TNR should look:
 regional
 practical
 locally rooted
-less austere than NTEF
-more colourful than NTEF
+less austere than NTE
+more colourful than NTE
 less standardised than TNA
 ```
 
@@ -718,7 +718,7 @@ Potential:
 
 ## 38. Colour Palette
 
-Broader than NTEF.
+Broader than NTE.
 
 Potential:
 
@@ -754,7 +754,7 @@ Potential:
 
 ## 40. Face Covering
 
-Less prevalent than NTEF.
+Less prevalent than NTE.
 
 Typical:
 
@@ -998,7 +998,7 @@ Thermal should not be a normal TNR capability.
 
 ## 57. Communications
 
-TNR should have more local communications capability than the lowest NTEF tiers but less standardisation than TNA.
+TNR should have more local communications capability than the lowest NTE tiers but less standardisation than TNA.
 
 Leader radio:
 
@@ -1151,7 +1151,7 @@ Use:
 OBSERVATION
 ```
 
-TNR is more locally rooted and less technologically oriented than NTEF's specialist extremist networks.
+TNR is more locally rooted and less technologically oriented than NTE's specialist extremist networks.
 
 Do not make drones a defining capability.
 
@@ -1179,7 +1179,7 @@ in baseline faction design.
 
 ## 69. National Symbolism
 
-Unlike NTEF, TNR may plausibly use Takistani national colours or flags.
+Unlike NTE, TNR may plausibly use Takistani national colours or flags.
 
 Reason:
 
@@ -1219,7 +1219,7 @@ simple resistance device
 
 Avoid:
 
-- NTEF-style austere extremist symbolism;
+- NTE-style austere extremist symbolism;
 - copied real Afghan resistance logos;
 - copied Republican Militia banner.
 
@@ -1382,7 +1382,7 @@ These are editor/gameplay abstractions.
 | TBG | Hostile / contested |
 | TSOC | Hostile |
 | UKSF | Hostile / negotiable |
-| NTEF | Hostile |
+| NTE | Hostile |
 | Civilians | Mixed / locally embedded |
 | Criminal groups | Transactional / variable |
 
@@ -1415,7 +1415,7 @@ Useful for:
 - insurgency campaigns;
 - village politics;
 - rival anti-government factions;
-- anti-NTEF cooperation;
+- anti-NTE cooperation;
 - political negotiations;
 - former-insurgent reintegration;
 - contested government legitimacy.
@@ -1424,9 +1424,9 @@ Useful for:
 
 # PART XXXVII — DISTINCTION MATRIX
 
-## 83. TNR vs NTEF vs TNA
+## 83. TNR vs NTE vs TNA
 
-| Feature | TNR | NTEF | TNA |
+| Feature | TNR | NTE | TNA |
 |---|---|---|---|
 | Political focus | Takistani/local | Transnational extremist | State |
 | Side | Independent | OPFOR | BLUFOR |
@@ -1469,7 +1469,7 @@ including:
 
 ---
 
-## 85. Relationship to NTEF Assets
+## 85. Relationship to NTE Assets
 
 Some neutral gear can be shared.
 
@@ -1527,14 +1527,14 @@ plus exact external leaf dependencies actually used.
 
 # PART XL — DESIGN RED LINES
 
-## 88. Do Not Make TNR NTEF-Lite
+## 88. Do Not Make TNR NTE-Lite
 
 Avoid:
 
 - black as dominant faction colour;
 - universal masks;
 - transnational ideology;
-- identical NTEF insignia logic;
+- identical NTE insignia logic;
 - explosive-vest identity;
 - uniformly austere clothing.
 
@@ -1590,8 +1590,8 @@ The English phrase `National Resistance` is descriptive and generic.
 - TNR is INDEPENDENT/GUER.
 - TNR is a locally rooted Takistani movement.
 - TNR is nationalist/local rather than transnational.
-- TNR is distinct from NTEF.
-- TNR is hostile to NTEF by default.
+- TNR is distinct from NTE.
+- TNR is hostile to NTE by default.
 - TNR is hostile/contested with the Takistani government by default.
 - TNR can negotiate and cooperate pragmatically.
 - TNR contains multiple political/local currents.
@@ -1607,7 +1607,7 @@ The English phrase `National Resistance` is descriptive and generic.
 - FN FAL may appear rarely as historical legacy equipment.
 - Body armour is limited.
 - Helmets are uncommon.
-- Face coverings are less common than NTEF.
+- Face coverings are less common than NTE.
 - NVGs are rare.
 - Thermal equipment is exceptional.
 - Civilian pickups/SUVs/vans/trucks are the mobility backbone.
@@ -1752,7 +1752,7 @@ TAKISTANI STATE
       │                                       │
       │                                       │ hostile
       │                                       ▼
-      └──────────── hostile ──────────────── NTEF
+      └──────────── hostile ──────────────── NTE
 ```
 
 with UKSF able to encounter TNR as:
@@ -1763,4 +1763,4 @@ with UKSF able to encounter TNR as:
 - intelligence source;
 - reconciliation target.
 
-That political flexibility is TNR's defining gameplay value and is the clearest way to keep it distinct from NTEF.
+That political flexibility is TNR's defining gameplay value and is the clearest way to keep it distinct from NTE.
